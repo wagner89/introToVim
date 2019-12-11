@@ -20,8 +20,9 @@
  - aliases
  - command line commands
  - basics: open/save/close/reload
+ - navigation in a file via motions
  - copying and pasting
- - anchors
+ - replacing text
  
 #### Insert Mode
  - getting in and out of insert mode

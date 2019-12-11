@@ -13,6 +13,7 @@
  - modes: insert, normal, visual
  - motions
  - macros
+ - buffers
 
 #### Command (Normal) Mode
  - the : character
